@@ -1,0 +1,13 @@
+html .rwmb-image-select {
+	width: 45px;
+	height: 45px;
+}
+
+html #mora_blog_metaboxes .rwmb-image-select, html #mora_page_layout_metaboxes .rwmb-image-select {
+	width: 56px;
+	height: 51px;
+}
+
+html #mora_portfolio_thumbnail_metaboxes .rwmb-image-item.thumbnail {
+	width: 85px;
+}

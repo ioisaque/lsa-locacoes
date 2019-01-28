@@ -1,0 +1,2345 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Mora\n"
+"POT-Creation-Date: 2017-06-03 17:58+0300\n"
+"PO-Revision-Date: 2017-06-03 17:58+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: 404.php:14
+msgid "OOOOOOPS"
+msgstr ""
+
+#: 404.php:23
+msgid "Error 404 - Not Found"
+msgstr ""
+
+#: 404.php:24
+msgid ""
+"Sorry, but the requested resource was not found on this site. Please try "
+"again or contact the administrator for assistance."
+msgstr ""
+
+#: 404.php:26
+msgid "Are you looking for something?"
+msgstr ""
+
+#: comments.php:31
+#, php-format
+msgctxt "comments title"
+msgid "One thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:40 comments.php:63
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:43 comments.php:66
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:44 comments.php:67
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:79
+msgid "Comments are closed."
+msgstr ""
+
+#: comments.php:89
+msgid "Your email address will not be published. Marked fields are required."
+msgstr ""
+
+#: comments.php:92 woocommerce/single-product-reviews.php:73
+msgid "Name"
+msgstr ""
+
+#: comments.php:93 woocommerce/single-product-reviews.php:75
+msgid "Email"
+msgstr ""
+
+#: comments.php:94
+msgid "Website"
+msgstr ""
+
+#: comments.php:97
+msgid "Leave a Comment"
+msgstr ""
+
+#: comments.php:98
+msgid "Leave a  Comment"
+msgstr ""
+
+#: comments.php:99
+msgid "Cancel Comment"
+msgstr ""
+
+#: comments.php:100
+msgid "Your Comment"
+msgstr ""
+
+#: comments.php:101 functions.php:699 woocommerce/single-product-reviews.php:78
+msgid "Submit"
+msgstr ""
+
+#: footer.php:99 header.php:150
+msgid "Copyright - Mora | All Rights Reserved"
+msgstr ""
+
+#: framework/admin/options-init.php:28 framework/admin/options-init.php:35
+msgid "Delicious Options"
+msgstr ""
+
+#: framework/admin/options-init.php:81
+msgid "Check out our Portfolio"
+msgstr ""
+
+#: framework/admin/options-init.php:86
+msgid "Like us on Facebook"
+msgstr ""
+
+#: framework/admin/options-init.php:91
+msgid "Follow us on Twitter"
+msgstr ""
+
+#: framework/admin/options-init.php:108
+msgid "General"
+msgstr ""
+
+#: framework/admin/options-init.php:115
+msgid "Welcome to Mora Options Panel."
+msgstr ""
+
+#: framework/admin/options-init.php:116
+msgid ""
+"It is meant to make your life easier by offering you options for customizing "
+"your website (upload custom logo, choose a color scheme, set up footer "
+"social icons, etc.)."
+msgstr ""
+
+#: framework/admin/options-init.php:122
+#: framework/meta-box/meta-box-config.php:166
+msgid "Layout"
+msgstr ""
+
+#: framework/admin/options-init.php:123
+msgid ""
+"Select the main content alignment. Choose between wide and boxed layout."
+msgstr ""
+
+#: framework/admin/options-init.php:133
+msgid "Website Preloader"
+msgstr ""
+
+#: framework/admin/options-init.php:134
+msgid "You can enable/disable the website`s spinning wheel preloader."
+msgstr ""
+
+#: framework/admin/options-init.php:150
+msgid "Preloader Logo(Optional)"
+msgstr ""
+
+#: framework/admin/options-init.php:151
+msgid ""
+"You can insert a logo in the middle of the preloader. Tip: image should be "
+"circle shaped."
+msgstr ""
+
+#: framework/admin/options-init.php:162
+msgid "Grayscale(black&white) Effect"
+msgstr ""
+
+#: framework/admin/options-init.php:163
+msgid "You can enable/disable the website`s grayscale effect for the images."
+msgstr ""
+
+#: framework/admin/options-init.php:171
+msgid "WordPress Site Tagline"
+msgstr ""
+
+#: framework/admin/options-init.php:172
+msgid ""
+"Enable/Disable the WordPress site tagline near logo. You can set a tagline "
+"in Settings->General."
+msgstr ""
+
+#: framework/admin/options-init.php:180
+msgid "Smooth Scrolling Effect"
+msgstr ""
+
+#: framework/admin/options-init.php:181
+msgid "Enable/Disable the Smooth Scrolling effect for the website."
+msgstr ""
+
+#: framework/admin/options-init.php:189
+msgid "Breadcrumbs"
+msgstr ""
+
+#: framework/admin/options-init.php:190
+msgid ""
+"Enable/Disable breadcrumbs. Breadcrumbs are a type of navigation which "
+"appears under a page title)."
+msgstr ""
+
+#: framework/admin/options-init.php:204
+msgid "Enable Breadcrumbs for:"
+msgstr ""
+
+#: framework/admin/options-init.php:205
+msgid "Select on what types of pages to display breadcrumbs."
+msgstr ""
+
+#: framework/admin/options-init.php:229
+msgid "Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:237
+msgid "Main Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:238
+msgid "Upload an image that will represent your website`s logo."
+msgstr ""
+
+#: framework/admin/options-init.php:245 framework/admin/options-init.php:663
+msgid "Use SVG Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:246 framework/admin/options-init.php:326
+#: framework/admin/options-init.php:664
+msgid "You can use an .svg logo instead of a regular .png or .jpg logo."
+msgstr ""
+
+#: framework/admin/options-init.php:262 framework/admin/options-init.php:680
+msgid "Upload an SVG Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:264 framework/admin/options-init.php:344
+#: framework/admin/options-init.php:682
+msgid ""
+"Upload your SVG logo. Make sure to set the width and height in the next "
+"fields."
+msgstr ""
+
+#: framework/admin/options-init.php:271 framework/admin/options-init.php:689
+msgid "SVG Logo Width"
+msgstr ""
+
+#: framework/admin/options-init.php:272 framework/admin/options-init.php:352
+#: framework/admin/options-init.php:690
+msgid "If you enter 100, the logo width will be set to 100px. "
+msgstr ""
+
+#: framework/admin/options-init.php:273 framework/admin/options-init.php:283
+#: framework/admin/options-init.php:353 framework/admin/options-init.php:363
+#: framework/admin/options-init.php:387 framework/admin/options-init.php:400
+#: framework/admin/options-init.php:451 framework/admin/options-init.php:691
+#: framework/admin/options-init.php:701 framework/admin/options-init.php:1385
+msgid "Use numbers only"
+msgstr ""
+
+#: framework/admin/options-init.php:281 framework/admin/options-init.php:699
+msgid "SVG Logo Height"
+msgstr ""
+
+#: framework/admin/options-init.php:282 framework/admin/options-init.php:362
+#: framework/admin/options-init.php:700
+msgid "If you enter 50, the logo height will be set to 50px. "
+msgstr ""
+
+#: framework/admin/options-init.php:298
+msgid "Alternative Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:299
+msgid ""
+"You can choose to display an alternative logo for the scrolling state of the "
+"header(when header is scrolled down). Make sure to have the Scrolling Effect "
+"enabled in the Theme Options->Header section."
+msgstr ""
+
+#: framework/admin/options-init.php:315
+msgid "Upload Alternative Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:317
+msgid ""
+"You can upload an alternative logo for the scrolling state of the header."
+msgstr ""
+
+#: framework/admin/options-init.php:325
+msgid "Use Alternative SVG Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:342
+msgid "Upload an Alternative SVG Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:351
+msgid "Alternative SVG Logo Width"
+msgstr ""
+
+#: framework/admin/options-init.php:361
+msgid "Alternative SVG Logo Height"
+msgstr ""
+
+#: framework/admin/options-init.php:385
+msgid "Margin-Top Value for Header`s Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:386
+msgid ""
+"You can adjust the logo position in header by setting a top-margin to it. "
+"You can use negative values as well. For example, if you enter 10, the logo "
+"will be lowered by 10px. "
+msgstr ""
+
+#: framework/admin/options-init.php:398
+msgid "Logo Height on Scroll"
+msgstr ""
+
+#: framework/admin/options-init.php:399
+msgid "Adjust the logo height on scroll. Currently is set to 25px"
+msgstr ""
+
+#: framework/admin/options-init.php:412
+msgid "Header"
+msgstr ""
+
+#: framework/admin/options-init.php:418
+msgid "General Settings"
+msgstr ""
+
+#: framework/admin/options-init.php:425
+msgid "Header Type"
+msgstr ""
+
+#: framework/admin/options-init.php:426
+msgid "Set the type of the header: regular top header or left side header."
+msgstr ""
+
+#: framework/admin/options-init.php:439
+msgid "Enable/Disable Hashtags in URL"
+msgstr ""
+
+#: framework/admin/options-init.php:440
+msgid ""
+"You can enable hashtags in the URL of your webiste when clicking on menu "
+"items to navigate on page."
+msgstr ""
+
+#: framework/admin/options-init.php:449
+msgid "Navigation ScrollOffset Value"
+msgstr ""
+
+#: framework/admin/options-init.php:450
+msgid ""
+"You can adjust the position at which the scrolling effect stops when a menu "
+"item is clicked. You can use it to set an offset value to the top of each "
+"section stop. For example, the 100 value will stop the navigation 100px "
+"above the section."
+msgstr ""
+
+#: framework/admin/options-init.php:459
+msgid "Regular Header"
+msgstr ""
+
+#: framework/admin/options-init.php:466
+#: framework/meta-box/meta-box-config.php:281
+msgid "Menu Style"
+msgstr ""
+
+#: framework/admin/options-init.php:467
+msgid "Select the menu style of the theme."
+msgstr ""
+
+#: framework/admin/options-init.php:475
+msgid "Menu Items Style"
+msgstr ""
+
+#: framework/admin/options-init.php:476
+msgid "Select the menu items style for the theme."
+msgstr ""
+
+#: framework/admin/options-init.php:484
+msgid "Header Mood Scheme"
+msgstr ""
+
+#: framework/admin/options-init.php:485 framework/admin/options-init.php:572
+msgid ""
+"Select a scheme for the header. Dark or Light. This will mainly affect the "
+"navigation. Then pick a color from below."
+msgstr ""
+
+#: framework/admin/options-init.php:495
+msgid "Header Background Color"
+msgstr ""
+
+#: framework/admin/options-init.php:496
+msgid ""
+"Leave blank if you want to keep the default background color or pick a color "
+"for the header (default: white)."
+msgstr ""
+
+#: framework/admin/options-init.php:511
+msgid "Padding-Top/Padding-Bottom values for header`s initial position"
+msgstr ""
+
+#: framework/admin/options-init.php:512
+msgid "Set new padding values for the header`s look on initial position."
+msgstr ""
+
+#: framework/admin/options-init.php:513
+msgid "Values are defined in pixels. Default: 48 with 48"
+msgstr ""
+
+#: framework/admin/options-init.php:523
+msgid "Sticky Header"
+msgstr ""
+
+#: framework/admin/options-init.php:524
+msgid ""
+"You can enable a floating/sticky top-bar header which will include your logo "
+"and menu. If disabled, the scrolling effect from below will be ignored."
+msgstr ""
+
+#: framework/admin/options-init.php:533
+msgid "Scrolling Effect"
+msgstr ""
+
+#: framework/admin/options-init.php:534
+msgid ""
+"You can disable the scrolling effect of the header. If disabled, \"Padding-"
+"Top/Padding-Bottom values for header`s on scroll position\" will be ignored."
+msgstr ""
+
+#: framework/admin/options-init.php:543
+msgid "Vertical Sliding Menu"
+msgstr ""
+
+#: framework/admin/options-init.php:544
+msgid ""
+"Enable an off-canvas sliding sidebar on the website. A new menu item(...) "
+"will be added to the header."
+msgstr ""
+
+#: framework/admin/options-init.php:559
+msgid "Padding-Top/Padding-Bottom values for header`s on scroll position"
+msgstr ""
+
+#: framework/admin/options-init.php:560
+msgid "Set new padding values for the header`s look on scroll position."
+msgstr ""
+
+#: framework/admin/options-init.php:561
+msgid "Values are defined in pixels. Default: 16 with 16"
+msgstr ""
+
+#: framework/admin/options-init.php:571
+msgid "Header Mood Scheme on Scroll"
+msgstr ""
+
+#: framework/admin/options-init.php:580
+msgid "Header Background Color on Scroll"
+msgstr ""
+
+#: framework/admin/options-init.php:581
+msgid ""
+"Leave blank if you want to keep the default background color or pick a color "
+"for the header (default: white - 90% transparent)."
+msgstr ""
+
+#: framework/admin/options-init.php:592
+msgid "Search Widget in Header"
+msgstr ""
+
+#: framework/admin/options-init.php:593
+msgid "You can enable a search icon widget in the header."
+msgstr ""
+
+#: framework/admin/options-init.php:603
+msgid "Left Side Header"
+msgstr ""
+
+#: framework/admin/options-init.php:610 functions.php:115
+msgid "Footer"
+msgstr ""
+
+#: framework/admin/options-init.php:617
+msgid "Footer Text"
+msgstr ""
+
+#: framework/admin/options-init.php:618
+msgid "Place here your copyright line. For ex: Copyright 2016 | My website."
+msgstr ""
+
+#: framework/admin/options-init.php:624
+msgid "Footer Layout"
+msgstr ""
+
+#: framework/admin/options-init.php:625
+msgid ""
+"Set the look of the footer: content on right-left sides, or content centered."
+msgstr ""
+
+#: framework/admin/options-init.php:638
+msgid "Footer Mood Scheme"
+msgstr ""
+
+#: framework/admin/options-init.php:639
+msgid ""
+"Select a scheme for the footer. Dark or Light. This will mainly affect the "
+"text."
+msgstr ""
+
+#: framework/admin/options-init.php:647
+msgid "Footer Reveal Effect"
+msgstr ""
+
+#: framework/admin/options-init.php:648
+msgid "Check to enable the \"reveal\" effect on footer."
+msgstr ""
+
+#: framework/admin/options-init.php:656
+msgid "Footer Logo"
+msgstr ""
+
+#: framework/admin/options-init.php:657
+msgid "You can add a logo inside the footer(Optional)."
+msgstr ""
+
+#: framework/admin/options-init.php:716
+msgid "Footer Builder"
+msgstr ""
+
+#: framework/admin/options-init.php:717
+msgid ""
+"Overwrite the above settings and build a custom footer using Visual Composer "
+"and pages."
+msgstr ""
+
+#: framework/admin/options-init.php:733
+msgid "Footer Builder Page"
+msgstr ""
+
+#: framework/admin/options-init.php:734
+msgid "Select the page which will replace the footer."
+msgstr ""
+
+#: framework/admin/options-init.php:755 inc/breadcrumbs.php:32
+#: inc/page-title.php:20
+msgid "Blog"
+msgstr ""
+
+#: framework/admin/options-init.php:762
+msgid "Sidebar Position for Blog Related Pages"
+msgstr ""
+
+#: framework/admin/options-init.php:763
+msgid ""
+"Select a sidebar position for blog related pages. It will be applied to "
+"single posts, index page, archive and search pages."
+msgstr ""
+
+#: framework/admin/options-init.php:774
+msgid "Sidebar Name for Blog Related Pages"
+msgstr ""
+
+#: framework/admin/options-init.php:775
+msgid ""
+"Select the sidebar which will be applied to blog related pages, including "
+"single posts, index page, archive pages and search result pages."
+msgstr ""
+
+#: framework/admin/options-init.php:783
+msgid "Enable Tags list on Blog Posts"
+msgstr ""
+
+#: framework/admin/options-init.php:784
+msgid ""
+"If the option is on, the tags list will be displayed at the bottom of the "
+"post."
+msgstr ""
+
+#: framework/admin/options-init.php:792
+msgid "Enable Social Share Icons for Blog Posts Inner Pages"
+msgstr ""
+
+#: framework/admin/options-init.php:793
+msgid ""
+"If the option is on, the social icons for sharing the post will be displayed."
+msgstr ""
+
+#: framework/admin/options-init.php:801
+msgid "Enable Author Box for Blog Posts Inner Pages"
+msgstr ""
+
+#: framework/admin/options-init.php:802
+msgid "If the option is on, the author box will be displayed."
+msgstr ""
+
+#: framework/admin/options-init.php:810
+msgid "Enable Prev/Next Posts Links for Blog Posts"
+msgstr ""
+
+#: framework/admin/options-init.php:811
+msgid "If the option is on, links for Prev/Next posts will be displayed."
+msgstr ""
+
+#: framework/admin/options-init.php:819
+msgid "Link URL for the `Blog` link in breadcrumbs."
+msgstr ""
+
+#: framework/admin/options-init.php:820
+msgid "Add an URL for the Blog link in the breadcrumbs which appear on posts."
+msgstr ""
+
+#: framework/admin/options-init.php:826
+msgid "Breadcrumb Keyword for Blog."
+msgstr ""
+
+#: framework/admin/options-init.php:827
+msgid "Ex: Blog or Journal."
+msgstr ""
+
+#: framework/admin/options-init.php:833 inc/breadcrumbs.php:33
+msgid "Portfolio"
+msgstr ""
+
+#: framework/admin/options-init.php:840
+msgid "Project Navigation"
+msgstr ""
+
+#: framework/admin/options-init.php:841
+msgid "Enable/Disable the project navigation from project pages."
+msgstr ""
+
+#: framework/admin/options-init.php:856
+msgid "Link URL for the portfolio `Back` button icon"
+msgstr ""
+
+#: framework/admin/options-init.php:857
+msgid "Add an URL for the portfolio Back button."
+msgstr ""
+
+#: framework/admin/options-init.php:867
+msgid "Project Navigation Behavior:"
+msgstr ""
+
+#: framework/admin/options-init.php:868
+msgid ""
+"Select how would you like the navigation to behave: Display link to another "
+"project from the same category or not."
+msgstr ""
+
+#: framework/admin/options-init.php:888
+msgid "Portfolio Slug URL"
+msgstr ""
+
+#: framework/admin/options-init.php:890
+msgid ""
+"Change the default portfolio slug URL. Currently, this is set to "
+"<strong>portfolio</strong>. Ex: http://website.com/portfolio/project-name. "
+"Changing it to <strong>works</strong>, the URLs will become http://website."
+"com/works/project-name. Once you`ll change it, you`ll probably get 404 error "
+"pages for projects. To fix this, refresh the permalinks: go to Settings-"
+">Permalinks and click on Default. Save. Then click on your custom URL "
+"structure(Postname) and save again."
+msgstr ""
+
+#: framework/admin/options-init.php:897
+msgid "Link URL for the `Portfolio` link in breadcrumbs."
+msgstr ""
+
+#: framework/admin/options-init.php:898
+msgid ""
+"Add an URL for the portfolio link in the breadcrumbs which appear on "
+"projects."
+msgstr ""
+
+#: framework/admin/options-init.php:905
+msgid "Breadcrumb Keyword for Portfolio."
+msgstr ""
+
+#: framework/admin/options-init.php:906
+msgid "Ex: Projects or Work."
+msgstr ""
+
+#: framework/admin/options-init.php:912
+msgid "Typography"
+msgstr ""
+
+#: framework/admin/options-init.php:919
+msgid "Typography Options"
+msgstr ""
+
+#: framework/admin/options-init.php:920
+msgid ""
+"The theme is using Google Fonts to render the typography style for your "
+"website. You can however, make use of default fonts.)."
+msgstr ""
+
+#: framework/admin/options-init.php:927
+msgid "Body Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:928
+msgid "Select font options for the body"
+msgstr ""
+
+#: framework/admin/options-init.php:947
+msgid "Menu Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:948
+msgid "Select font options for the main menu."
+msgstr ""
+
+#: framework/admin/options-init.php:966
+msgid "Dropdown Menu Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:967
+msgid "Select font options for the submenu/dropdown items."
+msgstr ""
+
+#: framework/admin/options-init.php:984
+msgid "H1 Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:985
+msgid "Select font options for Heading 1."
+msgstr ""
+
+#: framework/admin/options-init.php:1003
+msgid "H2 Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:1004
+msgid "Select font options for Heading 2."
+msgstr ""
+
+#: framework/admin/options-init.php:1022
+msgid "H3 Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:1023
+msgid "Select font options for Heading 3."
+msgstr ""
+
+#: framework/admin/options-init.php:1041
+msgid "H4 Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:1042
+msgid "Select font options for Heading 4."
+msgstr ""
+
+#: framework/admin/options-init.php:1060
+msgid "H5 Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:1061
+msgid "Select font options for Heading 5."
+msgstr ""
+
+#: framework/admin/options-init.php:1079
+msgid "H6 Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:1080
+msgid "Select font options for Heading 6."
+msgstr ""
+
+#: framework/admin/options-init.php:1096
+msgid "Secondary Font Options"
+msgstr ""
+
+#: framework/admin/options-init.php:1097
+msgid "Select the secondary font options. Only some elements will be affected."
+msgstr ""
+
+#: framework/admin/options-init.php:1115
+msgid "Styling"
+msgstr ""
+
+#: framework/admin/options-init.php:1122
+msgid "Color Scheme"
+msgstr ""
+
+#: framework/admin/options-init.php:1123
+msgid "Set the color for the scheme."
+msgstr ""
+
+#: framework/admin/options-init.php:1132
+msgid "Body Background Color"
+msgstr ""
+
+#: framework/admin/options-init.php:1133
+msgid "Leave blank or pick a color for the body. (default: #fafafa)."
+msgstr ""
+
+#: framework/admin/options-init.php:1142
+msgid "Content Wrapper Background Color"
+msgstr ""
+
+#: framework/admin/options-init.php:1143
+msgid ""
+"Leave blank if you want to keep the default background color or pick a color "
+"for the content wrapper (default: #fff)."
+msgstr ""
+
+#: framework/admin/options-init.php:1152
+msgid "Footer Background Color"
+msgstr ""
+
+#: framework/admin/options-init.php:1153
+msgid ""
+"Leave blank if you want to keep the default background color or pick a color "
+"for the footer (default: #fafafa)."
+msgstr ""
+
+#: framework/admin/options-init.php:1162
+msgid "Selected Text Background Color"
+msgstr ""
+
+#: framework/admin/options-init.php:1163
+msgid ""
+"Leave blank if you want to keep the default background color or pick a color "
+"for the selected text (default: blue, set by the browser)."
+msgstr ""
+
+#: framework/admin/options-init.php:1172
+msgid "Patterns for Background"
+msgstr ""
+
+#: framework/admin/options-init.php:1173
+msgid ""
+"Select a pattern and set it as background. Choose between these patterns. "
+"More to come..."
+msgstr ""
+
+#: framework/admin/options-init.php:1200
+msgid "Social"
+msgstr ""
+
+#: framework/admin/options-init.php:1207
+msgid "Social Options."
+msgstr ""
+
+#: framework/admin/options-init.php:1208
+msgid ""
+"Set your social network references. Add your links for popular platforms "
+"like Twitter and Facebook. If you don`t want to include a social icon in the "
+"list, just leave the textfield empty.)."
+msgstr ""
+
+#: framework/admin/options-init.php:1213
+msgid "Your RSS Feed address"
+msgstr ""
+
+#: framework/admin/options-init.php:1219
+msgid "Your Facebook page/profile URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1225
+msgid "Your Twitter URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1231
+msgid "Your Flickr Page URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1236
+msgid "Your Google Plus Page URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1241
+msgid "Your Dribbble Profile URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1246
+msgid "Your Pinterest URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1251
+msgid "Your LinkedIn Profile URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1256
+msgid "Your Skype Username"
+msgstr ""
+
+#: framework/admin/options-init.php:1261
+msgid "Your Github URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1266
+msgid "Your YouTube URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1271
+msgid "Your Vimeo Page URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1276
+msgid "Your Instagram Profile URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1282
+msgid "Your Tumblr URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1288
+msgid "Your Behance Profile URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1294
+msgid "Your VK URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1300
+msgid "Your Xing URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1305
+msgid "Your SoundCloud URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1310
+msgid "Your Codepen URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1315
+msgid "Your Yelp URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1320
+msgid "Your Slideshare URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1325
+msgid "Your Houzz URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1330
+msgid "Your 500px URL"
+msgstr ""
+
+#: framework/admin/options-init.php:1336
+msgid "Social Icons in Header"
+msgstr ""
+
+#: framework/admin/options-init.php:1337
+msgid ""
+"Enable/Disable social icons for the header. If enabled, the social icons "
+"block will be displayed in the header nav bar."
+msgstr ""
+
+#: framework/admin/options-init.php:1348
+msgid "WooCommerce"
+msgstr ""
+
+#: framework/admin/options-init.php:1355
+msgid "Sidebar Position for the Shop Page"
+msgstr ""
+
+#: framework/admin/options-init.php:1356
+msgid "Select a sidebar position for the Shop page."
+msgstr ""
+
+#: framework/admin/options-init.php:1367
+msgid "Sidebar Name for Shop Page"
+msgstr ""
+
+#: framework/admin/options-init.php:1368
+msgid ""
+"Select the sidebar which will be applied to the shop page, if the shop page "
+"layout defined from the option from above is set to a sidebar."
+msgstr ""
+
+#: framework/admin/options-init.php:1375
+msgid "Products per Row"
+msgstr ""
+
+#: framework/admin/options-init.php:1376
+msgid ""
+"Set how many products would you like to display on a single row. In other "
+"words, how many columns will the shop page have?"
+msgstr ""
+
+#: framework/admin/options-init.php:1383
+msgid "Products per Page"
+msgstr ""
+
+#: framework/admin/options-init.php:1384
+msgid "Set how many products would you like to display on a page."
+msgstr ""
+
+#: framework/admin/options-init.php:1399
+msgid "Custom CSS & JS"
+msgstr ""
+
+#: framework/admin/options-init.php:1408
+msgid "Custom CSS"
+msgstr ""
+
+#: framework/admin/options-init.php:1409
+msgid "Quickly add some CSS to your theme by adding it to this block."
+msgstr ""
+
+#: framework/admin/options-init.php:1417
+msgid "Header Custom JS"
+msgstr ""
+
+#: framework/admin/options-init.php:1418
+msgid ""
+"Paste your JavaScript code here. Use this field to quickly add JS code "
+"snippets before </head>."
+msgstr ""
+
+#: framework/admin/options-init.php:1428
+msgid "Footer Custom JS"
+msgstr ""
+
+#: framework/admin/options-init.php:1429
+msgid ""
+"Paste your JavaScript code here. Use this field to quickly add JS code "
+"snippets."
+msgstr ""
+
+#: framework/extend_woocommerce.php:19
+msgctxt "breadcrumb"
+msgid "Home"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:27
+msgid "Page Layout"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:38
+msgid "Sidebar Position"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:50
+msgid "Pick a Sidebar"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:61
+msgid "Blog Layout Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:72
+msgid "Blog Layout"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:92
+msgid "Video Post Format Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:100
+msgid "External URL(embed YouTube or Vimeo videos )"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:102
+msgid ""
+"Use an YouTube or Vimeo page URL(ex: http://www.youtube.com/watch?"
+"v=x6qe_kVaBpg). The embed code will be automatically created."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:111
+msgid "Quote Post Format Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:119
+msgid "Quote Text"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:125
+msgid "Quote Author"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:135
+msgid "Gallery Post Format Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:143
+msgid "Post Slider Images"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:147
+#: framework/meta-box/meta-box-config.php:511
+msgid ""
+"Upload new images or select them from the media library. (Ctrl/CMD + Click "
+"for selecting multiple items at once)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:155
+msgid "Portfolio Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:175
+msgid "Grid Columns"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:179
+msgid "2"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:180
+msgid "3"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:181
+msgid "4"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:182
+msgid "5"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:188
+msgid "With Filter"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:190
+msgid "Check the box to enable filters above the portfolio grid."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:195
+msgid "Categories/Filters"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:198
+msgid "Select from which categories to display projects in the grid."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:213
+msgid "Page Options (optional)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:220
+msgid "Title Position"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:224
+msgid "Left"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:225
+msgid "Center"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:230
+msgid "Title Tagline"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:232
+msgid "You can set a tagline for the title."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:238
+msgid "Title Background Image"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:245
+msgid "Disable Title Section"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:247
+msgid ""
+"Disable the entire page title section and use Visual Composer to build your "
+"page on a blank canvas."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:252
+msgid "Disable Solid Header"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:254
+msgid ""
+"Disable the solid header and set it as an overlay for the content. This is "
+"known as a fixed header or absolute positioned header."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:259
+msgid "Push Header at Top"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:261
+msgid ""
+"Disabling the solid header will position it over the title. Push the header "
+"back to top by selecting the checkbox. Best to use when setting a background "
+"image for the page title. "
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:273
+msgid "Customize the Header Behavior"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:275
+msgid ""
+"Set a new behavior for the header, like setting new background colors for it "
+"or other logo."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:285
+msgid ""
+"Overwrite the global menu style, set in Appearance->Delicious Options-"
+">Header."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:287
+msgid "Classic"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:288
+msgid "Minimal"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:289
+msgid "Fullscreen"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:296
+msgid "Pick a new menu?"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:300
+msgid "Select a new menu for the header."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:306
+msgid "Initial Navigation Style"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:312
+#: framework/meta-box/meta-box-config.php:326
+msgid "Light Background / Dark Navigation"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:313
+#: framework/meta-box/meta-box-config.php:327
+msgid "Dark Background / Light Navigation"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:320
+msgid "On Scroll Navigation Style"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:334
+msgid "Initial Header Background Color"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:343
+msgid "On Scroll Header Background Color"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:352
+msgid "Initial Header Background Color Opacity"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:357
+#: framework/meta-box/meta-box-config.php:371
+msgid "%"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:366
+msgid "On Scroll Header Background Color Opacity"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:381
+msgid "Initial Logo Image(Optional)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:389
+msgid "On Scroll Logo Image(Optional)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:397
+#: framework/meta-box/meta-box-config.php:406
+msgid "SVG or Retina Ready?"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:399
+#: framework/meta-box/meta-box-config.php:408
+msgid ""
+"If your logo is an .svg file or retina-ready .png file, set a width and "
+"height for it."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:415
+msgid "Initial Logo Width(px)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:423
+msgid "OnScroll Logo Width(px)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:431
+msgid "Initial Logo Height(px)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:439
+msgid "OnScroll Logo Height(px)"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:451
+msgid "Blog Post Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:458
+msgid "Blog Post Title Tagline"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:460
+msgid ""
+"You can set a tagline for the blog post title(optional). It will appear on "
+"single blog post pages."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:470
+msgid "Featured Image / Thumbnail Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:477
+msgid "Thumbnail Behavior"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:481
+msgid "Opens the Project Page"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:482
+msgid "Is Opening in a Lightbox"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:483
+msgid "Opens a Custom URL"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:484
+msgid "Opens a Video in a Lightbox"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:485
+msgid "Opens an Image Gallery in a Lightbox"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:491
+msgid "Custom URL: "
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:493
+msgid "You can set the thumbnail to open a custom URL."
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:499
+msgid "Video URL: "
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:501
+msgid ""
+"You can set the thumbnail to open a video from third-party websites(Vimeo, "
+"YouTube) in an URL. Ex: http://www.youtube.com/watch?v=y6Sxv-sUYtM"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:507
+msgid "Gallery Images"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:516
+msgid "Thumbnail Size"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:533
+msgid "Project Options"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:541
+msgid "Small Project Description"
+msgstr ""
+
+#: framework/meta-box/meta-box-config.php:543
+msgid ""
+"Add a small description for the project. It will be applied to certain "
+"portfolio styles.(HTML tags allowed)"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/field.php:244
+msgid "+"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/field.php:257
+msgid "&#8211;"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/autocomplete.php:18
+#: framework/meta-box/meta-box-framework/inc/fields/autocomplete.php:83
+#: framework/meta-box/meta-box-framework/inc/fields/autocomplete.php:100
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/button.php:35
+msgid "Click me"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/checkbox.php:75
+msgid "Yes"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/checkbox.php:75
+msgid "No"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-advanced.php:23
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-advanced.php:66
+msgctxt "file upload"
+msgid "Select or Upload Files"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-advanced.php:103
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:168
+msgctxt "file upload"
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-advanced.php:104
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:169
+msgctxt "file upload"
+msgid "Edit"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-input.php:17
+msgid "Select File"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-input.php:40
+#: framework/meta-box/meta-box-framework/inc/fields/select.php:207
+msgid "Select"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file-input.php:42
+msgid "Remove"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:19
+#, php-format
+msgid "You may only upload maximum %d file"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:20
+#, php-format
+msgid "You may only upload maximum %d files"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:98
+msgid "Error: Cannot delete file"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:111
+msgctxt "file upload"
+msgid "Upload Files"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/file.php:112
+msgctxt "file upload"
+msgid "+ Add new file"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/image-advanced.php:23
+msgid "Select Images"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/image-advanced.php:71
+msgctxt "image upload"
+msgid "Select or Upload Images"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/image-advanced.php:108
+#: framework/meta-box/meta-box-framework/inc/fields/image.php:136
+msgctxt "image upload"
+msgid "Delete"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/image-advanced.php:109
+#: framework/meta-box/meta-box-framework/inc/fields/image.php:137
+msgctxt "image upload"
+msgid "Edit"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/image.php:70
+#: framework/meta-box/meta-box-framework/inc/fields/thickbox-image.php:34
+msgctxt "image upload"
+msgid "Upload Images"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/image.php:71
+msgctxt "image upload"
+msgid "+ Add new image"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/key-value.php:19
+msgid "Key"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/key-value.php:20
+msgid "Value"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/map.php:46
+msgid "Find Address"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/oembed.php:55
+msgid "Embed HTML not available."
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/oembed.php:77
+msgid "Preview"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/plupload-image.php:105
+msgctxt "image upload"
+msgid "Drop images here"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/plupload-image.php:106
+msgctxt "image upload"
+msgid "or"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/plupload-image.php:107
+msgctxt "image upload"
+msgid "Select Files"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/plupload-image.php:182
+msgctxt "image upload"
+msgid "Allowed Image Files"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/post.php:67
+msgid "Select a post"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/post.php:71
+#: framework/meta-box/meta-box-framework/inc/fields/taxonomy.php:40
+#, php-format
+msgid "Select a %s"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/select.php:207
+msgid "All"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/select.php:207
+msgid "None"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/fields/user.php:49
+msgid "Select an user"
+msgstr ""
+
+#: framework/meta-box/meta-box-framework/inc/meta-box.php:245
+msgid "Please correct the errors highlighted below and try again."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:334
+msgid "Install Required Plugins"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:335
+msgid "Install Plugins"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#. translators: %s: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:340
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:343
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:349
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:355
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:361
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:367
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name(s).
+#: framework/plugins/class-tgm-plugin-activation.php:373
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:378
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:383
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:388
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:392
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:393
+#: framework/plugins/class-tgm-plugin-activation.php:912
+#: framework/plugins/class-tgm-plugin-activation.php:2618
+#: framework/plugins/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:394
+#: framework/plugins/class-tgm-plugin-activation.php:3244
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:395
+#: framework/plugins/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgid_plural "The following plugins were activated successfully:"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. translators: 1: dashboard link.
+#: framework/plugins/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:607
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1019
+#: framework/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:1206
+#: framework/plugins/class-tgm-plugin-activation.php:3033
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#. translators: %s: version number
+#: framework/plugins/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#. translators: 1: install status, 2: update status
+#: framework/plugins/class-tgm-plugin-activation.php:2427
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2473
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. translators: 1: number of plugins.
+#: framework/plugins/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2567
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. translators: %2$s: plugin name in screen reader markup
+#: framework/plugins/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. translators: 1: plugin name, 2: error message.
+#: framework/plugins/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3594
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#. translators: 1: plugin name.
+#: framework/plugins/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: framework/plugins/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: framework/plugins/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: framework/widgets/widget-social.php:13
+msgid "Mora - Social"
+msgstr ""
+
+#: framework/widgets/widget-social.php:15
+msgid "Social block widget"
+msgstr ""
+
+#: framework/widgets/widget-social.php:86
+msgid "Connect with Us"
+msgstr ""
+
+#: framework/widgets/widget-social.php:94
+msgid "Widget Title: "
+msgstr ""
+
+#: functions.php:79
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:105
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:107
+msgid "Widgets in this area will be shown in the sidebar."
+msgstr ""
+
+#: functions.php:117
+msgid "Widgets in this area will be shown in the footer."
+msgstr ""
+
+#: functions.php:125
+msgid "Page Sidebar"
+msgstr ""
+
+#: functions.php:127
+msgid "Widgets in this area will be shown in the sidebar of any page."
+msgstr ""
+
+#: functions.php:134
+msgid "Sliding Menu Sidebar"
+msgstr ""
+
+#: functions.php:136
+msgid ""
+"Widgets in this area will be shown in the sidebar of the sliding menu. You "
+"can enable it from Appearance->Delicious Options->Header: Vertical Sliding "
+"Menu."
+msgstr ""
+
+#: functions.php:636 template-parts/content-blog-grid-shortcode.php:85
+#: template-parts/content-gallery.php:37 template-parts/content-video.php:37
+#: template-parts/content.php:55
+msgid "Read More"
+msgstr ""
+
+#: functions.php:698
+msgid ""
+"This content is password protected. To view it please enter your password "
+"below:"
+msgstr ""
+
+#: functions.php:729
+msgid "Invalid sidebar ID"
+msgstr ""
+
+#: functions.php:852
+msgid "Redux Framework"
+msgstr ""
+
+#: functions.php:858
+msgid "WPBakery Visual Composer"
+msgstr ""
+
+#: functions.php:866
+msgid "Templatera Addon for Visual Composer"
+msgstr ""
+
+#: functions.php:874
+msgid "Revolution Slider"
+msgstr ""
+
+#: functions.php:882
+msgid "Envato Market"
+msgstr ""
+
+#: functions.php:890
+msgid "Contact Form 7"
+msgstr ""
+
+#: functions.php:996 inc/template-tags.php:66
+#: template-parts/content-page.php:25
+msgid "Edit"
+msgstr ""
+
+#: functions.php:1001
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: header.php:98
+msgid "menu"
+msgstr ""
+
+#: header.php:161
+msgid "Skip to content"
+msgstr ""
+
+#: inc/breadcrumbs.php:8
+msgid "Home"
+msgstr ""
+
+#: inc/breadcrumbs.php:13
+msgid "Error 404"
+msgstr ""
+
+#: inc/breadcrumbs.php:160
+msgid "Page"
+msgstr ""
+
+#: inc/navigation.php:30
+msgid "&laquo;"
+msgstr ""
+
+#: inc/navigation.php:30
+msgid "First"
+msgstr ""
+
+#: inc/navigation.php:31
+msgid "&lsaquo;"
+msgstr ""
+
+#: inc/navigation.php:31
+msgid "Previous"
+msgstr ""
+
+#: inc/navigation.php:41
+msgid "&rsaquo;"
+msgstr ""
+
+#: inc/navigation.php:42
+msgid "&raquo;"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:32 taxonomy-portfolio_cats.php:129
+#: taxonomy-portfolio_cats.php:141
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:34 inc/template-tags.php:61
+#: template-parts/content-blog-grid-shortcode.php:70
+#: template-parts/content-blog-shortcode.php:75
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgid "Leave a comment"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgid "1 Comment"
+msgstr ""
+
+#: inc/template-tags.php:41
+msgid "% Comments"
+msgstr ""
+
+#: inc/template-tags.php:77
+msgid "Author"
+msgstr ""
+
+#: search.php:29
+msgid "Search Results for: "
+msgstr ""
+
+#: searchform.php:3 searchform.php:4
+msgid "Search for:"
+msgstr ""
+
+#: searchform.php:4
+msgid "search..."
+msgstr ""
+
+#: single.php:41
+msgid "Share this Article"
+msgstr ""
+
+#: single.php:55
+msgid "Previous Article"
+msgstr ""
+
+#: single.php:56
+msgid "Next Article"
+msgstr ""
+
+#: taxonomy-portfolio_cats.php:9
+msgid "Category: "
+msgstr ""
+
+#: template-parts/content-blog-grid-shortcode.php:68
+#: template-parts/content-blog-shortcode.php:73
+msgid " "
+msgstr ""
+
+#: template-parts/content-blog-grid-shortcode.php:91
+#: template-parts/content-gallery.php:43 template-parts/content-page.php:18
+#: template-parts/content-single.php:38 template-parts/content-video.php:43
+#: template-parts/content.php:61
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-none.php:14
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:20
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:24
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:29
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:32
+#, php-format
+msgid "%s review for %s"
+msgid_plural "%s reviews for %s"
+msgstr[0] ""
+msgstr[1] ""
+
+#: woocommerce/single-product-reviews.php:34
+msgid "Reviews"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:55
+msgid "There are no reviews yet."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+msgid "Add a review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:68
+#, php-format
+msgid "Be the first to review &ldquo;%s&rdquo;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:69
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:84
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a review."
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:88
+msgid "Your Rating"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:89
+msgid "Rate&hellip;"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:90
+msgid "Perfect"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:91
+msgid "Good"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:92
+msgid "Average"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:93
+msgid "Not that bad"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:94
+msgid "Very Poor"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:98
+msgid "Your Review"
+msgstr ""
+
+#: woocommerce/single-product-reviews.php:107
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: woocommerce/single-product/related.php:50
+msgid "Related Products"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Mora"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "http://deliciousthemes.com/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "A Theme for Creatives"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "DeliciousThemes"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://deliciousthemes.com/contact/"
+msgstr ""

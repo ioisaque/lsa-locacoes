@@ -1,0 +1,2 @@
+[20-Nov-2018 11:34:54 America/Sao_Paulo] PHP Fatal error:  Call to undefined function _deprecated_file() in /home/lsalocacoes/public_html/wp-includes/locale.php on line 10
+[30-Nov-2018 22:45:34 America/Sao_Paulo] PHP Fatal error:  Class 'Walker' not found in /home/lsalocacoes/public_html/wp-includes/class-walker-nav-menu.php on line 17
